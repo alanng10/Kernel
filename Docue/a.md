@@ -48,6 +48,10 @@ Kernel has park kind arch marry.
 
 Kernel has park kind arch land.
 
+Kernel has park mark.
+
+Kernel has park cross.
+
 Kernel is did.
 
 Kernel has major.
