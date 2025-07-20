@@ -63,3 +63,5 @@ Kernel has interen.
 Kernel has proced format.
 
 Kernel has sched.
+
+Kernel sched unit is KernelThread orn ExecuteThread.
