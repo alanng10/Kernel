@@ -59,3 +59,7 @@ Kernel has major.
 Kernel is written in Sand Lang.
 
 Kernel has interen.
+
+Kernel has proced format.
+
+Kernel has sched.
