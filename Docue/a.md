@@ -55,3 +55,5 @@ Kernel has park cross.
 Kernel is did.
 
 Kernel has major.
+
+Kernel is written in Sand Lang.
