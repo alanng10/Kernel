@@ -69,3 +69,5 @@ Kernel sched unit is KernelThread orn ExecuteThread.
 Kernel interen is on compute alpha operate.
 
 Kernel interen is high execute certain.
+
+Kernel interen has bound call count.
