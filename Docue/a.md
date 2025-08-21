@@ -64,7 +64,7 @@ Kernel has proced format.
 
 Kernel has sched.
 
-Kernel sched unit is KernelThread orn ExecuteThread.
+Kernel sched unit is KernelThread orn ProgramThread.
 
 Kernel interen is on compute alpha operate.
 
