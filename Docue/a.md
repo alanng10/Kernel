@@ -56,7 +56,7 @@ Kernel is did.
 
 Kernel has major.
 
-Kernel is written in Single Lang.
+Kernel is written in Sand Lang.
 
 Kernel has interen.
 
